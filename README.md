@@ -41,6 +41,23 @@ Unity 2022.3 LTS 기반 URP 프로젝트
 상호작용의 경우 마우스를 올리고 있는 오브젝트와 상호작용됩니다.
 (아이템 줍기, NPC 대화 등)
 
+## 상점 이용
+
+<img width="1089" height="570" alt="image" src="https://github.com/user-attachments/assets/6ced11d2-935d-4729-8ba0-94ee18ea6d89" />
+마을 맵
+
+<img width="937" height="668" alt="image" src="https://github.com/user-attachments/assets/0c1fb61e-13fd-4b6a-bc5a-c8c8546e83bf" />
+
+푸른 공터에 아이템을 드랍하고 
+
+<img width="1649" height="1012" alt="image" src="https://github.com/user-attachments/assets/a49e3334-31c6-4c5b-aa6f-0b898249e583" />
+
+Sell 버튼 클릭
+
+<img width="1870" height="1036" alt="image" src="https://github.com/user-attachments/assets/51b1e817-4acf-4011-b11d-7be02b319e4f" />
+
+판매 가격이 나오고 Yes를 누르면 판매 완료
+
 ## 팀 구성
 
 | 역할 | 이름 | 담당 업무 |
