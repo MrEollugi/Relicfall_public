@@ -44,6 +44,7 @@ Unity 2022.3 LTS 기반 URP 프로젝트
 ## 상점 이용
 
 <img width="1089" height="570" alt="image" src="https://github.com/user-attachments/assets/6ced11d2-935d-4729-8ba0-94ee18ea6d89" />
+
 마을 맵
 
 <img width="937" height="668" alt="image" src="https://github.com/user-attachments/assets/0c1fb61e-13fd-4b6a-bc5a-c8c8546e83bf" />
